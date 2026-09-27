@@ -1,0 +1,6 @@
+{
+  "name": "Fatigue Guard",
+  "description": "Real-time driver fatigue monitoring system with OpenCV & Keras integration architecture, eye-closure detection, and visual-audio safety alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
